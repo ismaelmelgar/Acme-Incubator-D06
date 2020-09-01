@@ -1,0 +1,46 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+entrepreneur.investmentRound.label.ticker = Ticker
+entrepreneur.investmentRound.label.creation = Creacion
+entrepreneur.investmentRound.label.round = Ronda
+entrepreneur.investmentRound.label.title = Titulo
+entrepreneur.investmentRound.label.description = Descripcion
+entrepreneur.investmentRound.label.amountMoney = Cantidad de dinero
+entrepreneur.investmentRound.label.moreInfo = Mas informacion
+entrepreneur.investmentRound.label.entrepreneur = Contratista
+entrepreneur.investmentRound.label.status = Estado
+
+entrepreneur.investmentRound.label.published = Publicado
+entrepreneur.investmentRound.label.notPublished = No publicado
+entrepreneur.investmentRound.label.confirmPublishment = Marca la casilla para confirmar la publicación
+
+entrepreneur.investmentRound.form.button.statusFinal = Publicar
+entrepreneur.investmentRound.form.button.updatePublish = Confirmar
+entrepreneur.investmentRound.form.button.workProgramme = Programa de Trabajo
+entrepreneur.investmentRound.form.button.accountingRecord = Registro Contable
+entrepreneur.investmentRound.form.button.create = Crear
+entrepreneur.investmentRound.form.button.update = Actualizar
+entrepreneur.investmentRound.form.button.delete = Borrar
+entrepreneur.investmentRound.form.button.createWorkProgramme = Crear Programa de Trabajo
+
+entrepreneur.investmentRound.button.return = Volver
+
+entrepreneur.investmentRound.form.error.hasApplication = No puede ser eliminada. Tiene una solicitud pendiente
+entrepreneur.investmentRound.form.error.zoneEur = EUR o € permitidos
+entrepreneur.investmentRound.error.spam = Por favor, introduce un texto libre de spam
+entrepreneur.investmentRound.error.sumBudget = La suma total de las actividades del programa de trabajo debe ser igual a la cantidad de dinero de la ronda de inversion
+entrepreneur.investmentRound.error.ticker.format = El ticker debe seguir el siguiente formato: SSS-YY-NNNNNN, donde S denota una letra  y donde Y y N son numeros
+entrepreneur.investmentRound.error.ticker.repeated = Ticker existente, escriba otro distinto
+entrepreneur.investmentRound.error.activitySector = El ticker debe seguir el siguiente formato: SSS-YY-NNNNNN  donde "SSS" denota las tres primeras letras del sector de actividad correspondiente. Debe estar en mayúsculas y con "X" o "XX" si es necesario.
+entrepreneur.investmentRound.error.anyo = El ticker debe seguir el siguiente formato: SSS-YY-NNNNNN donde "YY" denota los dos últimos dígitos del año de creación
+
+entrepreneur.investmentRound.activitySectors = Las 3 primeras letras del ticker deben corresponder a las 3 primeras letras en mayúscula del sector de actividad deseado. Los sectores disponibles son:
+entrepreneur.investmentRound.YY = Los números YY corresponden a los dos últimos dígitos del año

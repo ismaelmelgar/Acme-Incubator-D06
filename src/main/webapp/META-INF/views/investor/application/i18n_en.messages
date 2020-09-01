@@ -1,0 +1,33 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+investor.application.label.ticker = Ticker
+investor.application.label.creationMoment = Creation
+investor.application.label.statement = Statement
+investor.application.label.moneyOffer = Money Offer
+investor.application.label.tickerInvestmentRound = Ticker of Requested Investment Round  
+investor.application.label.investorName = Requested By
+investor.application.label.status = Status
+investor.application.form.label.status = Status
+investor.application.form.label.reason = Reason of rejection (only when rejected)
+
+investor.application.form.button.create = Create application
+
+investor.application.button.return = Return
+
+investor.application.form.error.zoneEur = EUR or €
+investor.application.error.spam = Please, enter a text free of spam
+investor.application.error.ticker.format = The ticker must follow this format: SSS-YY-NNNNN, where S denotes a letter and where Y and N are numbers
+investor.application.error.ticker.repeated = Existing ticker, write a different one
+investor.application.error.activitySector =  The ticker must follow this format: SSS-YY-NNNNNN where “SSS” denotes the first three letters of the corresponding activity sector. It must be capitalised and with “X” or “XX” if necessary
+investor.application.error.anyo = The ticker must follow this format: SSS-YY-NNNNNN where “YY” denotes the last two digits of the creation year
+
+investor.application.activitySectors = The first 3 letters of the ticker must correspond to the first 3 letters of the desired sector of activity:
+investor.application.YY = \nYY numbers correspond to the last two digits of the Year
